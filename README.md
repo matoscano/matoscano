@@ -22,7 +22,7 @@ const miguelAngel = {
     technologies: {
         mobileApp: ["React Native", "Flutter"],
         frontEnd: {
-            html: ["HTML"]
+            html: ["HTML"],
             js: ["Javascript", "React", "Gatsby.js", "Next.js", "Vue", "Angular"],
             css: ["CSS", "styled-components", "PostCSS", "SASS", "material-ui", "materialize", "bootstrap"]
         },
