@@ -1,9 +1,6 @@
 <h2>Hi there, I'm Miguel Ángel Toscano! <img src="https://media.giphy.com/media/Wj7lNjMNDxSmc/giphy.gif" width="70"></h2>
 <img align='right' src="https://media.giphy.com/media/o0vwzuFwCGAFO/giphy.gif" width="230">
 
-<!--- <p><em>Full Stack Engineer at <a href="https://www.bigcouch.co/">Big Couch</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p> -->
-
 [![Twitter: MToscano_](https://img.shields.io/twitter/follow/MToscano_?style=social)](https://twitter.com/MToscano_)
 [![Linkedin: mtoscanor](https://img.shields.io/badge/-mtoscanor-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mtoscanor/)](https://www.linkedin.com/in/mtoscanor/)
 [![GitHub matoscano](https://img.shields.io/github/followers/matoscano?label=follow&style=social)](https://github.com/matoscano)
