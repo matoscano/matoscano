@@ -11,8 +11,37 @@
 
 &nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1KpJt-2BY-ZIAlPFQ9i_ssg-oXXOZj2Xv/view?usp=sharing)*
 
-## About :sunglasses:
+## :sunglasses: About me
 I am Miguel Ángel Toscano and I live in Cáceres (in the west of Spain) where I studied a degree in Computer Science and Software Engineering at the University of Extremadura.
 
 I am a responsible and respectful person who is passionate about programming with a wide disposition for teamwork and strong abilities to learn in a self-taught way. I’m always trying to keep up with latest technologies and always willing to give 100% to get the best results.
 
+## :rocket: A little more about me... 
+
+```javascript
+const miguelAngel = {
+    code: ["Javascript", "Typescript", "Java"],
+    askMeAbout: ["web dev", "tech", "app dev"],
+    technologies: {
+        mobileApp: ["React Native", "Flutter"],
+        frontEnd: {
+            js: ["React", "Gatsby.js", "Next.js", "Vue", "Angular"],
+            css: ["styled-components", "PostCSS", "SASS", "material-ui", "materialize", "bootstrap"]
+        },
+        backEnd: {
+            js: ["node", "express", "prisma"]
+        },
+        api: {
+            tech: ["graphql", "rest"]
+        },
+        devOps: ["AWS", "Docker🐳"],
+        cloudPlatforms: ["AWS", "Heroku", "Netlify", "Vercel"],
+        databases: ["postgresql","mongo", "MySql", "sqlite"],
+        misc: ["Firebase", "Redux & Redux sagas", "Storybook", "Jest", "eslint", "prettier"]
+    },
+    architecture: ["Single page applications", "Serverless Architecture", "Progressive web applications" ],
+    funFact: "There are two ways to write error-free programs; only the third one works"
+};
+```
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> 😊</em>
