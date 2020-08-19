@@ -36,8 +36,7 @@ const miguelAngel = {
         databases: ["postgresql","mongo", "MySql", "sqlite"],
         misc: ["Firebase", "Redux & Redux sagas", "Storybook", "Jest", "eslint", "prettier"]
     },
-    architecture: ["Single page applications", "Serverless Architecture", "Progressive web applications" ],
-    funFact: "There are two ways to write error-free programs; only the third one works"
+    architecture: ["Single page applications", "Serverless Architecture", "Progressive web applications" ]
 };
 ```
 
