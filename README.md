@@ -6,7 +6,7 @@
 [![GitHub matoscano](https://img.shields.io/github/followers/matoscano?label=follow&style=social)](https://github.com/matoscano)
 [![Gmail Badge](https://img.shields.io/badge/-matr05viru@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:matr05viru@gmail.com)](mailto:matr05viru@gmail.com)
 
-&nbsp; &nbsp; *[View My CV](https://drive.google.com/file/d/1KpJt-2BY-ZIAlPFQ9i_ssg-oXXOZj2Xv/view?usp=sharing)*
+&nbsp; &nbsp;
 
 ## :sunglasses: About me
 I am Miguel Ángel Toscano and I live in Cáceres (in the west of Spain) where I studied a degree in Computer Science and Software Engineering at the University of Extremadura.
